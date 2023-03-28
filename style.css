@@ -1,0 +1,80 @@
+body {
+    margin:0px;
+    background-color: #1F2937;
+    font-family: roboto, sans-serif;
+}
+
+.Header {
+    margin: 0px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.Logo {
+    margin-left: 100px;
+    color: #F9FAF8;
+    font-size: 24px;
+}
+
+ul {
+    list-style-type: none;
+    margin-left: 0px;
+    display: flex;
+    margin-right: 100px;
+    gap: 16px;
+  }
+
+  a {
+    text-decoration: none;
+    color: #e5e7eb;
+    font-size: 18px;
+  }
+
+  .Container {
+    display: flex;
+    align-items: center;
+    gap: 20px
+  }
+
+  .Sign-up {
+    margin-left: 100px;
+    display: flex;
+    flex-direction: column;
+    flex: 1;
+    gap: 8px;
+  }
+
+  .Image {
+    margin-right: 100px;
+    display: flex;
+    flex: 1;
+    justify-content: center;
+    align-items: center;
+    color: #e5e7eb;
+    font-size: 18px;
+    background-color: #e5e7eb4c ;
+    height:233px;
+  }
+
+  .web {
+    font-size: 48px;
+    font-weight: bolder;
+    color: #F9FAF8;
+    margin: 0;
+  }
+
+  .c {
+    max-width: 80px;
+    background-color: #3882F6;
+    color: #e5e7eb;
+    border: 0px;
+    border-radius: 4px;
+    padding: 4px;
+  }
+
+  .b {
+    color: #e5e7eb;
+    font-size: 18px;
+    margin: 0;
+  }
