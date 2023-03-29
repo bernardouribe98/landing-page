@@ -163,7 +163,7 @@ ul {
 
  .CTA {
     background-color: white;
-    padding: 80px 210px;
+    padding: 100px 210px;
  }
 
  .CTA .Content2 {
@@ -199,4 +199,14 @@ ul {
     border-color: white;
     border-style: solid;
     border-width: 2px;
+  }
+
+  .Footer {
+    height: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    font-size: 18px;
+    font-weight: lighter;
   }
